@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BOTONES</string>
+    <string name="btn">Boton</string>
+    <string name="btn_aceptar">Aceptar</string>v
+    <string name="btn_cancelar">Cancelar</string>v
+</resources>
